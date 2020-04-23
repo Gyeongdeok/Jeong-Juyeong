@@ -14,6 +14,13 @@ https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_q
 마감 후 3시간 이내 5천원 (지각)
 그 이후 만원
 9. 공부하면서 모르는거 언제든지 물어보셈
+10. ~ 4/25 ch2,3
+~ 5/2 ch4
+~ 5/9 ch 5,6
+~ 5/16 ch 7
+~ 5/23 ch 8
+~ 5/29 ch 9
+~ 6/6 ch 10 <- 기말 3주전
 
 Python install : http://www.openwith.net/wp-content/uploads/2018/01/%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4%EC%99%80-%EC%A3%BC%ED%94%BC%ED%84%B0.pdf
 
